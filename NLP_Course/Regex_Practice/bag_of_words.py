@@ -14,3 +14,4 @@ print(bow_simple)
 
 # Print the 10 most common tokens
 print(bow_simple.most_common(10))
+termin
